@@ -1,4 +1,4 @@
---
+-- 
 -- Pregunta
 -- ===========================================================================
 --
@@ -10,7 +10,6 @@
 --
 -- >>> Escriba su respuesta a partir de este punto <<<
 --
-
 DROP TABLE IF EXISTS thive2;
 CREATE TABLE thive2 (
     letra STRING,
